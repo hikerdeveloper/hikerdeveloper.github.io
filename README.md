@@ -1,6 +1,7 @@
-Welcome<3!!
-
-i love my husband static smmm <3333 >:3  
+<h3 align="center">
+   <span style="color:#FF00FF">Hi! I'm hiker!</span> 
+    <span style="color:#FF00FF">Taken by my baby static <3 </span> 
+</h3>
 <p align="center">
   <!-- Discord Button -->
   <a href="https://discord.gg/aKtmTn33">
