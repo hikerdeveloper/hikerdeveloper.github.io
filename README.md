@@ -4,7 +4,7 @@
 </h3>
 <p align="center">
   <!-- Discord Button -->
-  <a href="https://discord.gg/aKtmTn33">
+  <a href="https://discord.gg/H3q2U3xGyw">
     <img src="https://img.shields.io/badge/JOIN%20GCA-%23FF00FF?style=for-the-badge&logo=discord&logoColor=white" alt="gca" />
   </a>
 
