@@ -1,6 +1,6 @@
 <h3 align="center">
-   <span style="color:#FF00FF">Hi! I'm hiker!</span> 
-    <span style="color:#FF00FF">Taken by my baby static <3 </span> 
+    <strong><span style="color:#FF00FF">Hi! I'm hiker!</span>  <strong>
+     <strong><span style="color:#FF00FF">Taken by my baby static <3 </span>  <strong>
 </h3>
 <p align="center">
   <!-- Discord Button -->
