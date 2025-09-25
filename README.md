@@ -14,7 +14,7 @@
   </style>
 </head>
 <body>
-  <h1>Welcome!</h1>
-  <p class="my-paragraph">This paragraph has a specific class style.</p>
+<p style="color: blue;">This text is blue.</p>
+ 
 </body>
 </html>
