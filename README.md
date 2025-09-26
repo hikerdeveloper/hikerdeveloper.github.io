@@ -1,5 +1,10 @@
-<h3 align="center">
+
+<h1 align="center">
     <strong><span style="color:#FF00FF">Hi! I'm hiker!</span></strong>
+
+</h1>
+<h3 align="center">
+
      <strong><span style="color:#FF00FF">Taken by my baby static <3</span></strong>
 </h3>
 <p align="center">
